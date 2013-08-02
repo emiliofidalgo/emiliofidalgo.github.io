@@ -1,13 +1,24 @@
----
-layout: default
-title: Your New Jekyll Site
----
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="description" content>
+		<meta name="author" content>
+		<title>Emilio Garcia-Fidalgo | UIB</title>
+		
+		<!-- Bootstrap -->
+		<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+	</head>
+	<body>
+	<h1>Hello, world!</h1>
+		<!-- JavaScript plugins (requires jQuery) -->
+		<script src="http://code.jquery.com/jquery.min.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="js/bootstrap.min.js"></script>
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+		<!-- Optionally enable responsive features in IE8 -->
+		<script src="js/respond.min.js"></script>
+	</body>
+</html>
