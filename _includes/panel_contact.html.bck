@@ -1,4 +1,5 @@
-<h5 class="muted">Contact</h5>
+<div class="panel">
+<div class="panel-heading"><strong>Contact</strong></div>
 <address>
 <strong>Emilio Garcia-Fidalgo</strong><br>
 Edifici Anselm Turmeda, Lab 126<br>
@@ -11,3 +12,4 @@ Illes Balears, Spain<br>
 <abbr title="Fax">Fax:</abbr> +34-971-173-003<br>
 <a href="mailto:emilio.garcia@uib.es">emilio.garcia@uib.es</a>
 </address>
+</div>

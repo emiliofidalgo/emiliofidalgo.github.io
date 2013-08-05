@@ -2,14 +2,14 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!--meta name="viewport" content="width=device-width, initial-scale=1.0"-->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="description" content>
 		<meta name="author" content>
 		<title>Emilio Garcia-Fidalgo</title>
 		
 		<!-- Bootstrap -->
-		<link href="/css/bootstrap.min.css" rel="stylesheet">
+		<link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
 	</head>
 	<body style>
 		<!-- Content -->
@@ -18,7 +18,8 @@
 			<h3>Emilio Garcia-Fidalgo</h3>
 			<h4>University of the Balearic Islands</h4>
 			<div class="navbar">
-				<ul class="nav navbar-nav">
+				<div class="navbar-inner">
+				<ul class="nav">
 					{% if page.id == 'home' %}
 						<li class="active"><a href="/">Home</a></li>
 					{% else %}
@@ -58,7 +59,10 @@
 					{% endif %}
 				</ul>
 			</div>
+			</div>
 			<div class="row">
-				<div class="col-3 col-sm-3 col-lg-3">
+				<div class="span3">
 				<!-- Insert here fixed menus -->
 				{% include panel_contact.html %}
+				</div>
+				<div class="span9">
