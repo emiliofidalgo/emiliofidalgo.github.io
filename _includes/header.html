@@ -6,23 +6,55 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="description" content>
 		<meta name="author" content>
-		<title>Emilio Garcia-Fidalgo | UIB</title>
+		<title>Emilio Garcia-Fidalgo</title>
 		
 		<!-- Bootstrap -->
-		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="/css/bootstrap.min.css" rel="stylesheet">
 	</head>
 	<body style>
 		<!-- Content -->
 		<div class="container">
 			<!-- Header -->
 			<h3>Emilio Garcia-Fidalgo</h3>
+			<h4>University of the Balearic Islands</h4>
 			<div class="navbar">
 				<ul class="nav navbar-nav">
-					<li class="active"><a href="#">Home</a></li>
-					<li><a href="#">Research</a></li>
-					<li><a href="#">Publications</a></li>
-					<li><a href="#">Projects</a></li>
-					<li><a href="#">Teaching</a></li>
-					<li><a href="#">Downloads</a></li>
+					{% if page.id == 'home' %}
+						<li class="active"><a href="/">Home</a></li>
+					{% else %}
+						<li><a href="/">Home</a></li>
+					{% endif %}
+
+					{% if page.id == 'publications' %}
+						<li class="active"><a href="/publications">Publications</a></li>
+					{% else %}
+						<li><a href="/publications">Publications</a></li>
+					{% endif %}
+					
+					{% if page.id == 'research' %}
+						<li class="active"><a href="/research">Research</a></li>
+					{% else %}
+						<li><a href="/research">Research</a></li>
+					{% endif %}
+					
+					{% if page.id == 'projects' %}
+						<li class="active"><a href="/projects">Projects</a></li>
+					{% else %}
+						<li><a href="/projects">Projects</a></li>
+					{% endif %}
+
+					{% comment %}					
+					{% if page.id == 'teaching' %}
+						<li class="active"><a href="/teaching">Teaching</a></li>
+					{% else %}
+						<li><a href="/teaching">Teaching</a></li>
+					{% endif %}
+					{% endcomment %}
+					
+					{% if page.id == 'resources' %}
+						<li class="active"><a href="/resources">Resources</a></li>
+					{% else %}
+						<li><a href="/resources">Resources</a></li>
+					{% endif %}
 				</ul>
 			</div>
