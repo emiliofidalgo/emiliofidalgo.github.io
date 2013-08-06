@@ -28,17 +28,17 @@
 					{% else %}
 						<li><a href="/">Home</a></li>
 					{% endif %}
-
-					{% if page.id == 'publications' %}
-						<li class="active"><a href="/publications">Publications</a></li>
-					{% else %}
-						<li><a href="/publications">Publications</a></li>
-					{% endif %}
 					
 					{% if page.id == 'research' %}
 						<li class="active"><a href="/research">Research</a></li>
 					{% else %}
 						<li><a href="/research">Research</a></li>
+					{% endif %}
+
+					{% if page.id == 'publications' %}
+						<li class="active"><a href="/publications">Publications</a></li>
+					{% else %}
+						<li><a href="/publications">Publications</a></li>
 					{% endif %}
 					
 					{% if page.id == 'projects' %}
