@@ -13,6 +13,7 @@
 		
 		<!-- Bootstrap -->
 		<link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+		<link href="/css/own.css" rel="stylesheet" media="screen">
 	</head>
 	<body style>
 		<!-- Content -->
@@ -67,5 +68,10 @@
 				<div class="span3">
 				<!-- Insert here fixed menus -->
 				{% include panel_contact.html %}
+				
+				{% if page.id == 'home' %}
+					{% include panel_globalmenu.html %}
+				{% endif %}
+
 				</div>
 				<div class="span9">
