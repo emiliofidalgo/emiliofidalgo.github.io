@@ -36,7 +36,7 @@
 						<li><a href="/research">Research</a></li>
 					{% endif %}
 
-					{% if page.id == 'publications' %}
+					{% if page.id == 'publications' or page.id == 'publications_type' %}
 						<li class="active"><a href="/publications">Publications</a></li>
 					{% else %}
 						<li><a href="/publications">Publications</a></li>
@@ -79,6 +79,14 @@
 				
 				{% if page.id == 'projects' %}
 					{% include panel_projects.html %}
+				{% endif %}
+				
+				{% if page.id == 'publications' %}
+					{% include panel_pub_year.html %}
+				{% endif %}
+				
+				{% if page.id == 'publications_type' %}
+					{% include panel_pub_type.html %}
 				{% endif %}
 
 				</div>
