@@ -77,13 +77,11 @@
 						<li><a href="/projects">Projects</a></li>
 					{% endif %}
 
-					{% comment %}					
 					{% if page.id == 'teaching' %}
 						<li class="active"><a href="/teaching">Teaching</a></li>
 					{% else %}
 						<li><a href="/teaching">Teaching</a></li>
 					{% endif %}
-					{% endcomment %}
 					
 					{% if page.id == 'resources' %}
 						<li class="active"><a href="/resources">Resources</a></li>
@@ -116,6 +114,10 @@
 				
 				{% if page.id == 'publications_type' %}
 					{% include panel_pub_type.html %}
+				{% endif %}
+				
+				{% if page.id == 'teaching' %}
+					{% include panel_teaching.html %}
 				{% endif %}
 				
 				{% if page.id == 'resources' %}
