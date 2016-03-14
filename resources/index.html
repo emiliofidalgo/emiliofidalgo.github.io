@@ -4,6 +4,13 @@ id: resources
 ---
 <a name="software"></a>
 <h3 class="title-und">Software</h3>
+<h4 class="title-und">BIMOS - Binary Descriptor-based Image Mosaicing</h4>
+<p class="text-justify">
+BIMOS (Binary descriptor-based Image Mosaicing) is an open source image mosaicing algorithm which can produce seamless mosaics on different scenarios and camera configurations in a reasonable amount of time. It is based on a multi-threaded mosaicing architecture that permits decoupling the strategic steps involved in the process, speeding up the time required to estimate the final topology. In order to find the existent relations between the images, BIMOS employs OBIndex, a binary BoW scheme that is built online, allowing the use of binary descriptors to accelerate the image description process.
+<br />
+<br />
+<a href="https://github.com/emiliofidalgo/bimos.git">Further information</a>
+
 <h4 class="title-und">OBINDEX - Online Binary Image Index</h4>
 <p class="text-justify">
 OBINDEX is an open source C++ library for indexing images. It implements a hierarchical indexing scheme to match binary descriptors, which is used as an incremental Bag-Of-Words (BoW) visual vocabulary. This index is combined with an inverted file in order to provide an image database, that can be queried for finding similar images. This online binary visual vocabulary tries to solve the main drawbacks that classical BoW approaches present, avoiding the training step and adapting the visual dictionary to the operating environment.
