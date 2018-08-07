@@ -4,6 +4,13 @@ id: resources
 ---
 <a name="software"></a>
 <h3 class="title-und">Software</h3>
+<h4 class="title-und">HTMap - Hierarchical Topological Mapping</h4>
+<p class="text-justify">
+HTMap is an appearance-based approach for topological mapping based on a hierarchical decomposition of the environment. In HTMap, images with similar visual properties are grouped together in nodes, which are represented by means of an average global descriptor (PHOG) and an index of binary features based on an incremental bag-of-binary-words approach (OBIndex). Each image is represented by means of a global descriptor and a set of local features, and this information is used in a two-level loop closure approach, where, first, global descriptors are employed to obtain the most likely nodes of the map and then binary image features are used to retrieve the most likely images inside these nodes. This hierarchical scheme allows us to reduce the search space when recognizing places, maintaining high accuracy when creating a map. The algorithm can be used to detect loop closures in a unknown environment, without the need of a training stage, as it is usual in BoW schemes.
+<br />
+<br />
+<a href="http://github.com/emiliofidalgo/htmap.git">Further information</a>
+
 <h4 class="title-und">iBoW-LCD - Loop Closure Detection using Online Bags of Words</h4>
 <p class="text-justify">
 iBoW-LCD is a library that can be used to detect loop closures in a sequence of images. Instead of using the typical Bag-of-Words (BoW) scheme, iBoW-LCD makes use of an incremental Bags of Binary Words algorithm called OBIndex2, allowing the use of binary descriptors to accelerate the image description process and avoiding the problems that classical BoW approaches present.
