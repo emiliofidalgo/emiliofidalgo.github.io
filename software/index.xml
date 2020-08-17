@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Softwares | Emilio Garcia-Fidalgo</title>
+    <link>https://emiliofidalgo.github.io/software/</link>
+      <atom:link href="https://emiliofidalgo.github.io/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Softwares</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://emiliofidalgo.github.io/images/icon_hu5cadc5907358e99946514e3df57ab3de_31354_512x512_fill_lanczos_center_2.png</url>
+      <title>Softwares</title>
+      <link>https://emiliofidalgo.github.io/software/</link>
+    </image>
+    
+    <item>
+      <title>HTMAP</title>
+      <link>https://emiliofidalgo.github.io/software/htmap/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/software/htmap/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>iBoW-LCD</title>
+      <link>https://emiliofidalgo.github.io/software/ibow/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/software/ibow/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>OBIndex2</title>
+      <link>https://emiliofidalgo.github.io/software/obindex2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/software/obindex2/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>BIMOS</title>
+      <link>https://emiliofidalgo.github.io/software/bimos/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/software/bimos/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>MiniKing Sonar Library</title>
+      <link>https://emiliofidalgo.github.io/software/miniking/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/software/miniking/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

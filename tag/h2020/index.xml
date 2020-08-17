@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>h2020 | Emilio Garcia-Fidalgo</title>
+    <link>https://emiliofidalgo.github.io/tag/h2020/</link>
+      <atom:link href="https://emiliofidalgo.github.io/tag/h2020/index.xml" rel="self" type="application/rss+xml" />
+    <description>h2020</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://emiliofidalgo.github.io/images/icon_hu5cadc5907358e99946514e3df57ab3de_31354_512x512_fill_lanczos_center_2.png</url>
+      <title>h2020</title>
+      <link>https://emiliofidalgo.github.io/tag/h2020/</link>
+    </image>
+    
+    <item>
+      <title>BUGWRIGHT2</title>
+      <link>https://emiliofidalgo.github.io/project/bugwright2/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/project/bugwright2/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;h4 id=&#34;period-2020---2023&#34;&gt;Period: 2020 - 2023&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;
+The objective of BUGWRIGHT2 will be to bridge the gap between the current and desired capabilities of ship inspection and service robots by developing and demonstrating an adaptable autonomous robotic solution for servicing ship outer hulls. By combining the survey capabilities of autonomous Micro Air Vehicles (MAV) and small Autonomous Underwater Vehicles (AUV), with teams of magnetic-wheeled crawlers operating directly on the surface of the structure, the project inspection and cleaning system will be able to seamlessly merge the acquisition of a global overview of the structure with performing a detailed multi-robot visual and acoustic inspection of the structure, detecting corrosion patches or cleaning the surface as necessary – all of this with minimal user intervention. The detailed information provided will be integrated into a real-time visualization and decision-support user-interface taking advantage of virtual reality technologies. Although ships are the targetted application, BUGWRIGHT2 technology may be easily adapted to different structures assembled out of metal plates, and in particular to storage tanks, our secondary application domain. The project consists of a large consortium bringing together not only the technological knowledge from academia but the complete value chain of the inspection robotic market: two SMEs, one class society to evaluate the use of these technologies in the certification processes, a marine service provider and two harbors to provide access to ships, one shipyard to deploy the system within a maintenance framework and two shipowners. In addition, specialists in maritime laws and workplace psychologists will ensure that the digitalization of this market sector is designed around user acceptance. Finally, a specialist in innovation will lead the dissemination and exploitation activities.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>ROBINS</title>
+      <link>https://emiliofidalgo.github.io/project/robins/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/project/robins/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;h4 id=&#34;period-2018---2020&#34;&gt;Period: 2018 - 2020&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;
+The ROBINS project aims at filling the technology and regulatory gaps that today still represent a barrier to the adoption of Robotics and Autonomous Systems (RAS) in activities related to inspection of ships, understanding end user’s actual needs and expectations and analyzing how existing or near-future technology can meet them. ROBINS aims to improve the ability of RAS in sensing and probing, in navigation and positioning in confined spaces, as well as the capability to access and move safely within hazardous spaces. ROBINS also aims to provide new software tools for image and data processing, e.g. for production of 3D models and virtual/augmented reality environments, to provide the surveyor with the same level of information as obtained by direct human observation. A framework for the assessment of equivalence between the outcomes of RAS-assisted inspections and traditional procedures will also be provided by defining test procedures, criteria and metrics for the evaluation of RAS performance. Test campaigns will be performed both on-board and in a specific testing facility, where repeatable tests and measurements can be carried out. The development of robust technical solutions and a regulatory framework for RAS-assisted ship inspection is expected to streamline wide scale adoption of RAS technology in marine industry. The impact on safety, as far as hazardous environments are involved, can be easily understood and has already been witnessed in similar industrial domains (energy, oil and gas). The economic impact is expected to be beneficial for robotics industry (new supply chains and new potential markets), ICT industry (new services and products for data processing specific to marine industry), ship asset owners and operators (reduction of costs due to simplified preparation of items, reduced survey duration, improved quality and variety of inspection services) and certification bodies (new certification schemes for equipment, operators and procedures).&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

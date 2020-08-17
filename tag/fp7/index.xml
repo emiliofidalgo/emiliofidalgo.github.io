@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fp7 | Emilio Garcia-Fidalgo</title>
+    <link>https://emiliofidalgo.github.io/tag/fp7/</link>
+      <atom:link href="https://emiliofidalgo.github.io/tag/fp7/index.xml" rel="self" type="application/rss+xml" />
+    <description>fp7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://emiliofidalgo.github.io/images/icon_hu5cadc5907358e99946514e3df57ab3de_31354_512x512_fill_lanczos_center_2.png</url>
+      <title>fp7</title>
+      <link>https://emiliofidalgo.github.io/tag/fp7/</link>
+    </image>
+    
+    <item>
+      <title>INCASS</title>
+      <link>https://emiliofidalgo.github.io/project/incass/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/project/incass/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;h4 id=&#34;period-2013---2016&#34;&gt;Period: 2013 - 2016&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;
+In the day-to-day ship operations, structural and machinery failures may lead to major accidents, endangering crew and passengers lives onboard, posing a threat to the environment, damaging the ship itself and having a great impact in terms of business losses. Moreover, with the introduction and building of a big number of new ships, their monitoring and inspection from both regulatory bodies and Classification Societies has become more and more difficult in order to obtain the optimum inspection results and eliminating the hazards pose by high-risks and sub-standard ships. In this respect, the INCASS (Inspection Capabilities for Enhanced Ship Safety) project brings together a range of experienced and dedicated partners in order to tackle the issue of ship inspection, identification of high-risk ships, providing access to information related to ship surveys independent of the ship&amp;rsquo;s flag and inspection regime and moreover incorporate enhanced and harmonised cooperation and maritime stakeholders in order to avoid ship accidents, promote maritime safety and protect the environment. The INCASS consortium aims to bring an innovative solution to the ship inspection regime through the introduction of enhanced inspection of ship structures based on robotic platforms, providing ship structures and machinery monitoring with real time information using &amp;lsquo;intelligent&amp;rsquo; sensors and incorporate Structural and Machinery Risk Analysis. Moreover, by introducing Condition Based Inspection tools and methodologies, reliability and critically based maintenance, providing an enhanced Central Database including ship structures and machinery available to maritime authorities (e.g. EMSA, Port State Control), Classification Societies and ship operators and eventually by developing a Decision Support System for ship structures and machinery for continuous monitoring and risk analysis and management of ship operations.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>MINOAS</title>
+      <link>https://emiliofidalgo.github.io/project/minoas/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/project/minoas/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;h4 id=&#34;period-2009---2012&#34;&gt;Period: 2009 - 2012&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;
+The increasing competitiveness in marine operations creates a need for new system concepts that introduce high technology value added products, facilitate the processes involved and minimize the downtimes. The need, thus, lies not only in incorporating the technological means so far available, but in changing the way the corresponding authorities stand against the challenges at hand.&lt;/p&gt;
+&lt;p&gt;MINOAS project proposes reengineering of the overall vessel-inspection methodology, by introducing an innovative system concept that incorporates state of the art technologies, but at the same time formulates a new standardization of the overall inspection process. Through holistic approach, MINOAS proposes the development of a new infrastructure that substitutes human personnel by high locomotion enabled robots and &amp;ldquo;teleports&amp;rdquo; the human inspector from the vessel&amp;rsquo;s hold to a control room with virtual reality properties. The human&amp;rsquo;s perceptual abilities are enhanced through the utilization of high resolution tools (eg. sensors) and are augmented through the parallel processing property provided by MINOAS. Following the centralized control scheme adopted in similar distributed control methodologies (SCADA), the number and the sequence of the tasks required is rearranged and the overall inspection procedure is brought in alignment with the current tendency adopted in similar inspection, exploration and surveillance tasks.&lt;/p&gt;
+&lt;p&gt;The proposed innovative system concept, considers the assembly of a robot fleet with advanced locomotion abilities and sets of tools that are dedicated to the tasks attached to the inspection process, the development of control techniques and algorithms that provide a semi-autonomous nature to the operation of the robot-fleet and a hierarchical controller that realize the virtual environment for the human inspector and adds newly developed toolboxes enabling on-line processing of the harvested data and operate as a Decision Support System in the aid of the inspector.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Vhzej_65KlE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

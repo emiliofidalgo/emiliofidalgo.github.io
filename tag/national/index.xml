@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>national | Emilio Garcia-Fidalgo</title>
+    <link>https://emiliofidalgo.github.io/tag/national/</link>
+      <atom:link href="https://emiliofidalgo.github.io/tag/national/index.xml" rel="self" type="application/rss+xml" />
+    <description>national</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://emiliofidalgo.github.io/images/icon_hu5cadc5907358e99946514e3df57ab3de_31354_512x512_fill_lanczos_center_2.png</url>
+      <title>national</title>
+      <link>https://emiliofidalgo.github.io/tag/national/</link>
+    </image>
+    
+    <item>
+      <title>FUZZYMAR</title>
+      <link>https://emiliofidalgo.github.io/project/fuzzymar/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/project/fuzzymar/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;h4 id=&#34;period-2019---2021&#34;&gt;Period: 2019 - 2021&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;
+Fuzzy metrics are considered as an appropriate mathematical tool of measurement when such a measurement yields a degree of similarity relative to the value of a parameter. On the other side, indistinguishability operators provide a degree of such a similarity extending the notion of equivalence class to the fuzzy context. In the literature, one can find that the development of both mathematical frameworks is carried out independently and assuming that both notions are unrelated, since fuzzy metrics involve a parameter in its formulation and indistinguishability operators do not. The concept of modular indistinguishability operator, which involves a parameter in its formulation, has been introduced recently. This new kind of operator has allowed unifying under the same framework the aforesaid apparently unrelated fuzzy notions of measuring. This opens a wide range of possibilities which are totally unexplored from both the theoretical and applied viewpoints.&lt;/p&gt;
+&lt;p&gt;The main theoretical target of the project is to study what properties of fuzzy metrics and indistinguishability operators remain valid in the general framework of modular indistinguishability operators and, thus, try to make clear the differences with the results coming from the two classical frameworks. The extension to the modular context of all topological results for fuzzy metrics and all results of structure and representation for indistinguishability operators will be addressed. Moreover, this viewpoint will help us transfer, to the indistinguishability context, typical results that only could be stated in the fuzzy metric context, and vice versa. Moreover, applications of the new developed results to fixed point theory are expected to be given in such a way that fixed point results in the context of fuzzy metrics will be retrieved as a particular case. Furthermore, relationships between aggregation theory, generalized metric structures and modular indistinguishability operators are also an objective of the theoretical approach of the project.&lt;/p&gt;
+&lt;p&gt;Regarding the application of the theoretical results, the FUZZYMAR project aims at developing new techniques and algorithms that involve the use of modular indistinguishability operators as similarity measures in: (1) addressing two recurring problems in general robotics, namely robust model fitting and (visual) descriptors comparison and matching, both with also application to computer vision and pattern recognition, and (2) modelling multi-robot systems adopting swarm techniques, to deepen in the analysis of their performance and accordingly devise better coordinated task execution strategies.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>SUPERION</title>
+      <link>https://emiliofidalgo.github.io/project/superion/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/project/superion/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;h4 id=&#34;period-2015---2018&#34;&gt;Period: 2015 - 2018&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;
+SUPERION is the UIB subproject of MERBOTS project. The other subprojects are ARCHROV, leaded by the University of Girona and MERMANIP, conducted by the University Jaume I, the coordinator of the project. MERBOTS is the natural evolution of RAUVI and TRITON projects. Even though both projects have led to a significant progress regarding all their challenging objectives, a serious advancement is needed regarding the robustness and the reliability of the corresponding systems, to achieve the perception capabilities required by the new scenario. The project focuses on underwater archeology, although the same technologies could be applied to other scenarios. Two distinctive missions have been envisioned: the first one, cooperative survey, consists in an autonomous survey of a predefined search area by means of an AUV assisted by a surface vehicle that provides absolute localization and communication; the second mission, a cooperative intervention, entails a semi-autonomous intervention by means of an HROV assisted by an AUV providing out-of-body views of the intervention. The UIB, leading the SUPERION subproject, is responsible for work packages centered on collecting optical data and providing 3D models of the area under study and seeking and modeling potential targets within the sensor data to assist the HROV operator. Thus, SUPERION focuses on two general objectives: enhance 3D reconstruction capabilities for underwater environments by means of optical sensors and improve target detection methods using multimodal sensor data. More specific sub-objectives stemming from the abovementioned are: (1) develop new stereo-SLAM methods to improve the self-localization capabilities of underwater vehicles and, thus, accurately derive the camera poses; (2) enhance 3D reconstruction methods able to deal successfully with the difficulties of underwater scenarios for both full scenes and targets; (3) develop new laser-based 3D modeling algorithms capable of underwater operation for increasing the level of detail at certain places of the environment, particularly the target area; (4) deal with multiple sensor modalities for improved scene modeling; (5) approach target detection in multimodal maps; (6) develop new target tracking methods making use of both 3D and visual-appearance models.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/XzhHJurs2j0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/1xECxNb0-dQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>TRITON</title>
+      <link>https://emiliofidalgo.github.io/project/triton/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/project/triton/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;h4 id=&#34;period-2012---2015&#34;&gt;Period: 2012 - 2015&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;global-objectives&#34;&gt;Global Objectives&lt;/h3&gt;
+&lt;p&gt;The TRITON project proposes two scenarios as a proof of concept to demonstrate the developed capabilities: (1) the search and recovery of an object of interest (e.g. a black box) and (2) the intervention of an underwater panel in a permanent observatory. The first mission scenario will be divided in several sub-tasks. First, the mission will begin with the deployment of the AUV and the intervention I-AUV, which should then adopt and maintain a safe formation that enables acoustic communication and absolute positioning of both vehicles. Then, a sonar survey will be carried out by the AUV to detect the signal emitted by a pinger in the black box. The detection of such signal will be followed by a second survey, whose objective is to create a photomosaic of the area, making possible to visually identify the object. Finally, the AUV will be sent back to perform the intervention task to recover the object. The second mission scenario will also begin with the deployment and formation of both marine robots in order to establish communications and absolute positioning. Then, the AUV will use acoustics to interrogate a transponder mounted in the observatory with the objective to guide the vehicle transit to the panel. When visual contact with the objective is established, the AUV will approach the panel using visual servoing. The final part of the docking operation will involve a mechanism to rigidly attach the vehicle to the panel. After this, the manipulation will take place. Two demonstrative applications are foreseen: Opening/closing a valve, and connecting/disconnecting a cable.&lt;/p&gt;
+&lt;h3 id=&#34;need-for-coordination-and-added-value-of-the-coordination&#34;&gt;Need for coordination and added value of the coordination&lt;/h3&gt;
+&lt;p&gt;The TRITON coordinated research project aims the use of autonomous vehicles to execute complex underwater intervention tasks. The project focuses on the coordinated operation of multiple vehicles executing a cooperative mission, on increasing the dexterity of the hand-arm system available in the I-AUV, and on the improvement of the sensorial capabilities needed in all stages of the missions. Accordingly, TRITON has been broken down into 3 subprojects: COMAROB, responsible for the cooperation of two marine robots; VISUAL2, in charge of the visual mapping and the optical object identification; and GRASPER, responsible for the multisensory based autonomous manipulation.&lt;/p&gt;
+&lt;h3 id=&#34;specific-objectives-of-each-subproject&#34;&gt;Specific Objectives of Each Subproject&lt;/h3&gt;
+&lt;p&gt;The “COMAROB” subproject (UdG) has three main goals: 1) to consolidate the systems developed so far, to safely bridge the gap between water tank experiments and open sea trials; 2) to extend the system’s architecture, currently being used for the NGC (navigation, guidance and control), obstacle avoidance, path planning and mission control of each vehicle, to enable cooperation among themselves; and 3) to carry out SLAM-based acoustic mapping while simultaneously using cooperative navigation for ground truth. The main goals assumed by the “GRASPER” subproject (UJI) will cover the main aspects related to the mission specification by the user and the process of robotic manipulation: (1) development of the user interface and simulation capabilities needed for the complete project, improving the initial interface developed through the previous project; (2) design and integration of a more capable hand-arm system than the previously developed within the RAUVI project. For this project, we aim to build a more advanced gripper that can be used for different tasks, and to improve the grasping/manipulation functionalities by means of a better multisensory integration; (3) development and application of new methods for underwater manipulation that go beyond the current state of the art. This task will be in charge of planning the intervention mission details and to perform them in realistic conditions. For that, a new grasp planner will be developed making use of range and visual information provided by the I-AUV sensors. The VISUAL2 subproject (UIB) will focus on: (1) enhancing the vehicle self-localization performance using SLAM-based strategies fed with stereo images and acoustic information, taking into account the special features of the underwater scenarios and the intended missions of TRITON; (2) development of 3D safe path planning algorithms and obstacle avoidance strategies; (3) development of a laser and video fusion framework to extract enhanced structural information of the scenes of interest and the objects to be manipulated.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
