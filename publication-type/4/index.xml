@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Emilio Garcia-Fidalgo</title>
+    <link>https://emiliofidalgo.github.io/publication-type/4/</link>
+      <atom:link href="https://emiliofidalgo.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Emilio Garcia-Fidalgo © 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://emiliofidalgo.github.io/images/icon_hu5cadc5907358e99946514e3df57ab3de_31354_512x512_fill_lanczos_center_2.png</url>
+      <title>4</title>
+      <link>https://emiliofidalgo.github.io/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Turning a MAV into an Effective Tool for Vessel Inspection through a Reconfigurable Framework</title>
+      <link>https://emiliofidalgo.github.io/publication/bonnin-2018-turning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonnin-2018-turning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Micro-Aerial Vehicle based on Supervised Autonomy for Vessel Visual Inspection</title>
+      <link>https://emiliofidalgo.github.io/publication/bonnin-2015-micro/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonnin-2015-micro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Threaded Architecture for Fast Topology Estimation in Image Mosaicing</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2015-multi/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2015-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vessel Visual Inspection: A Mosaicing Approach</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2015-vessel/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2015-vessel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-of-the-Art in Vision-Based Topological Mapping and Localization Methods</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2014-state/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2014-state/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Solution for Bayesian Visual Loop Closure Detection Based on Local Invariant Features</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2013-solution/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2013-solution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vessel Inspection Assistance by means of a Micro-Aerial Vehicle: Control Architecture and Self-Localization Issues</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2013-vessel/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2013-vessel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

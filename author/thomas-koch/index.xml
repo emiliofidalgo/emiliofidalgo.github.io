@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Koch | Emilio Garcia-Fidalgo</title>
+    <link>https://emiliofidalgo.github.io/author/thomas-koch/</link>
+      <atom:link href="https://emiliofidalgo.github.io/author/thomas-koch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Koch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Emilio Garcia-Fidalgo © 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://emiliofidalgo.github.io/images/icon_hu5cadc5907358e99946514e3df57ab3de_31354_512x512_fill_lanczos_center_2.png</url>
+      <title>Thomas Koch</title>
+      <link>https://emiliofidalgo.github.io/author/thomas-koch/</link>
+    </image>
+    
+    <item>
+      <title>Advances in Automated Ship Structure Inspection</title>
+      <link>https://emiliofidalgo.github.io/publication/koch-2016-advances/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/koch-2016-advances/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

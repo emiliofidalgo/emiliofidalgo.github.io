@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> others | Emilio Garcia-Fidalgo</title>
+    <link>https://emiliofidalgo.github.io/author/others/</link>
+      <atom:link href="https://emiliofidalgo.github.io/author/others/index.xml" rel="self" type="application/rss+xml" />
+    <description> others</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Emilio Garcia-Fidalgo © 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://emiliofidalgo.github.io/images/icon_hu5cadc5907358e99946514e3df57ab3de_31354_512x512_fill_lanczos_center_2.png</url>
+      <title> others</title>
+      <link>https://emiliofidalgo.github.io/author/others/</link>
+    </image>
+    
+    <item>
+      <title>Turning a MAV into an Effective Tool for Vessel Inspection through a Reconfigurable Framework</title>
+      <link>https://emiliofidalgo.github.io/publication/bonnin-2018-turning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonnin-2018-turning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the Control Architecture of a Micro-Aerial Vehicle for Visual Inspection of Vessels</title>
+      <link>https://emiliofidalgo.github.io/publication/bonnin-2017-testing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonnin-2017-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision-Based Corrosion Detection Assisted by a Micro-Aerial Vehicle in a Vessel Inspection Application</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2016-vision/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2016-vision/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

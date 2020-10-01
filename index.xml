@@ -25,6 +25,38 @@ The objective of BUGWRIGHT2 will be to bridge the gap between the current and de
     </item>
     
     <item>
+      <title>Evaluation of a Skill-based Control Architecture for a Visual Inspection-oriented Aerial Platform</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2020-evaluation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2020-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LiPo-LCD: Combining Lines and Points for Appearance-based Loop Closure Detection</title>
+      <link>https://emiliofidalgo.github.io/publication/company-2020-lipo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/company-2020-lipo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Robust Loop Closure Detection in Weakly-Textured Environments using Points and Lines</title>
+      <link>https://emiliofidalgo.github.io/publication/company-2020-towards/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/company-2020-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Reconfigurable Framework to Turn a MAV into an Effective Tool for Vessel Inspection</title>
+      <link>https://emiliofidalgo.github.io/publication/bonnin-2019-reconfigurable/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonnin-2019-reconfigurable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FUZZYMAR</title>
       <link>https://emiliofidalgo.github.io/project/fuzzymar/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -36,6 +68,46 @@ Fuzzy metrics are considered as an appropriate mathematical tool of measurement 
 &lt;p&gt;The main theoretical target of the project is to study what properties of fuzzy metrics and indistinguishability operators remain valid in the general framework of modular indistinguishability operators and, thus, try to make clear the differences with the results coming from the two classical frameworks. The extension to the modular context of all topological results for fuzzy metrics and all results of structure and representation for indistinguishability operators will be addressed. Moreover, this viewpoint will help us transfer, to the indistinguishability context, typical results that only could be stated in the fuzzy metric context, and vice versa. Moreover, applications of the new developed results to fixed point theory are expected to be given in such a way that fixed point results in the context of fuzzy metrics will be retrieved as a particular case. Furthermore, relationships between aggregation theory, generalized metric structures and modular indistinguishability operators are also an objective of the theoretical approach of the project.&lt;/p&gt;
 &lt;p&gt;Regarding the application of the theoretical results, the FUZZYMAR project aims at developing new techniques and algorithms that involve the use of modular indistinguishability operators as similarity measures in: (1) addressing two recurring problems in general robotics, namely robust model fitting and (visual) descriptors comparison and matching, both with also application to computer vision and pattern recognition, and (2) modelling multi-robot systems adopting swarm techniques, to deepen in the analysis of their performance and accordingly devise better coordinated task execution strategies.&lt;/p&gt;
 &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Superpixel Description and Indexing for Visual Loop Closure Detection</title>
+      <link>https://emiliofidalgo.github.io/publication/el-2019-superpixel/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/el-2019-superpixel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards the Automation of Visual Inspections of Cargo Holds of Large-Tonnage Vessels</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2019-towards/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2019-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Inspection of Vessels Cargo Holds: Use of a Micro-Aerial Vehicle as a Smart Assistant</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2019-visual/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2019-visual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Image Mosaicking Using Incremental Bags of Binary Words</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2018-fast/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2018-fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Loop Closure Detection for Topological Mapping</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2018-hierarchical/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2018-hierarchical/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -57,6 +129,46 @@ Fuzzy metrics are considered as an appropriate mathematical tool of measurement 
     </item>
     
     <item>
+      <title>iBoW-LCD: An Appearance-based Loop Closure Detection Approach using Incremental Bags of Binary Words</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2018-ibow/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2018-ibow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loop Closure Detection Using Incremental Bags of Binary Words</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2018-loop-2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2018-loop-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loop Closure Detection Using Local Invariant Features and Randomized KD-Trees</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2018-loop/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2018-loop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods for Appearance-based Loop Closure Detection: Applications to Topological Mapping and Image Mosaicking</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2018-methods/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2018-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Steps towards the Integration of Robotic and Autonomous Systems in the Inspection of Vessel Holds</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2018-new/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2018-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ROBINS</title>
       <link>https://emiliofidalgo.github.io/project/robins/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -66,6 +178,30 @@ Fuzzy metrics are considered as an appropriate mathematical tool of measurement 
 &lt;p&gt;&lt;br /&gt;
 The ROBINS project aims at filling the technology and regulatory gaps that today still represent a barrier to the adoption of Robotics and Autonomous Systems (RAS) in activities related to inspection of ships, understanding end user’s actual needs and expectations and analyzing how existing or near-future technology can meet them. ROBINS aims to improve the ability of RAS in sensing and probing, in navigation and positioning in confined spaces, as well as the capability to access and move safely within hazardous spaces. ROBINS also aims to provide new software tools for image and data processing, e.g. for production of 3D models and virtual/augmented reality environments, to provide the surveyor with the same level of information as obtained by direct human observation. A framework for the assessment of equivalence between the outcomes of RAS-assisted inspections and traditional procedures will also be provided by defining test procedures, criteria and metrics for the evaluation of RAS performance. Test campaigns will be performed both on-board and in a specific testing facility, where repeatable tests and measurements can be carried out. The development of robust technical solutions and a regulatory framework for RAS-assisted ship inspection is expected to streamline wide scale adoption of RAS technology in marine industry. The impact on safety, as far as hazardous environments are involved, can be easily understood and has already been witnessed in similar industrial domains (energy, oil and gas). The economic impact is expected to be beneficial for robotics industry (new supply chains and new potential markets), ICT industry (new services and products for data processing specific to marine industry), ship asset owners and operators (reduction of costs due to simplified preparation of items, reduced survey duration, improved quality and variety of inspection services) and certification bodies (new certification schemes for equipment, operators and procedures).&lt;/p&gt;
 &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Turning a MAV into an Effective Tool for Vessel Inspection through a Reconfigurable Framework</title>
+      <link>https://emiliofidalgo.github.io/publication/bonnin-2018-turning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonnin-2018-turning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Large-Scale Coverage Maps of Posidonia Oceanica using an Autonomous Underwater Vehicle</title>
+      <link>https://emiliofidalgo.github.io/publication/burguera-2017-building/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/burguera-2017-building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defect-level Inspection Aids for Automated Vessel Visual Inspection</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2017-defect/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2017-defect/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -80,6 +216,22 @@ The ROBINS project aims at filling the technology and regulatory gaps that today
     </item>
     
     <item>
+      <title>Hierarchical Place Recognition for Topological Mapping</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2017-hierarchical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2017-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multifunctional Cooperative Marine Robots for Intervention Domains: Target Detection, Tracking and Recognition Issues</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2017-multifunctional/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2017-multifunctional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>OBIndex2</title>
       <link>https://emiliofidalgo.github.io/software/obindex2/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -89,12 +241,76 @@ The ROBINS project aims at filling the technology and regulatory gaps that today
     </item>
     
     <item>
+      <title>Testing the Control Architecture of a Micro-Aerial Vehicle for Visual Inspection of Vessels</title>
+      <link>https://emiliofidalgo.github.io/publication/bonnin-2017-testing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonnin-2017-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The INCASS Project Approach towards Automated Visual Inspection of Vessels</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2017-incass/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2017-incass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a New Methodology to Evaluate the Environmental Impact of a Marine Outfall Using a Lightweight AUV</title>
+      <link>https://emiliofidalgo.github.io/publication/bonin-2017-towards/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonin-2017-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision-Based Control for an AUV in a Multi-robot Undersea Intervention Task</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2017-vision/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2017-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Control of an AUV for Multi-Robot Intervention Tasks</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2017-visual/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2017-visual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in Automated Ship Structure Inspection</title>
+      <link>https://emiliofidalgo.github.io/publication/koch-2016-advances/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/koch-2016-advances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appearance-based Loop Closure Detection and its Application to Topological Mapping and Image Mosaicing</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2016-appearance/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2016-appearance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BIMOS</title>
       <link>https://emiliofidalgo.github.io/software/bimos/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://emiliofidalgo.github.io/software/bimos/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fast Image Mosaicing using Incremental Bags of Binary Words</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2016-fast/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2016-fast/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -110,12 +326,68 @@ The main goal of the MOCAP project (Sistema de seguimiento de micro-vehículos a
     </item>
     
     <item>
+      <title>Towards Automated Ship Inspection: A Visual Data-Oriented Toolbox</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2016-towards/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2016-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision-Based Corrosion Detection Assisted by a Micro-Aerial Vehicle in a Vessel Inspection Application</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2016-vision/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2016-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Micro-Aerial Platform for Vessel Visual Inspection based on Supervised Autonomy</title>
+      <link>https://emiliofidalgo.github.io/publication/bonnin-2015-micro-2/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonnin-2015-micro-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Micro-Aerial Vehicle based on Supervised Autonomy for Vessel Visual Inspection</title>
+      <link>https://emiliofidalgo.github.io/publication/bonnin-2015-micro/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonnin-2015-micro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mosaicing Approach for Vessel Visual Inspection using a Micro-Aerial Vehicle</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2015-mosaicing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2015-mosaicing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Threaded Architecture for Fast Topology Estimation in Image Mosaicing</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2015-multi/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2015-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MiniKing Sonar Library</title>
       <link>https://emiliofidalgo.github.io/software/miniking/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://emiliofidalgo.github.io/software/miniking/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Saliency-driven Visual Inspection of Vessels by means of a Multirotor</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2015-saliency/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2015-saliency/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -141,6 +413,86 @@ SUPERION is the UIB subproject of MERBOTS project. The other subprojects are ARC
     </item>
     
     <item>
+      <title>Vessel Visual Inspection: A Mosaicing Approach</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2015-vessel/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2015-vessel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision-based Topological Mapping and Localization Methods: A Survey</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2015-vision/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2015-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Inspection of Vessels by means of a Micro-Aerial Vehicle: an Artificial Neural Network Approach for Corrosion Detection</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2015-visual/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2015-visual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Robot Application for Marine Vessel Inspection</title>
+      <link>https://emiliofidalgo.github.io/publication/eich-2014-robot/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/eich-2014-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indexing Invariant Features for Topological Mapping and Localization</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2014-indexing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2014-indexing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Use of Binary Feature Descriptors for Loop Closure Detection</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2014-use/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2014-use/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-of-the-Art in Vision-Based Topological Mapping and Localization Methods</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2014-state/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2014-state/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vessel Inspection: A Micro-Aerial Vehicle-based Approach</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2014-vessel/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2014-vessel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision-Based Topological Mapping and Localization by means of Local Invariant Features and Map Refinement</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2014-vision/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2014-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Solution for Bayesian Visual Loop Closure Detection Based on Local Invariant Features</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2013-solution/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2013-solution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>INCASS</title>
       <link>https://emiliofidalgo.github.io/project/incass/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -150,6 +502,46 @@ SUPERION is the UIB subproject of MERBOTS project. The other subprojects are ARC
 &lt;p&gt;&lt;br /&gt;
 In the day-to-day ship operations, structural and machinery failures may lead to major accidents, endangering crew and passengers lives onboard, posing a threat to the environment, damaging the ship itself and having a great impact in terms of business losses. Moreover, with the introduction and building of a big number of new ships, their monitoring and inspection from both regulatory bodies and Classification Societies has become more and more difficult in order to obtain the optimum inspection results and eliminating the hazards pose by high-risks and sub-standard ships. In this respect, the INCASS (Inspection Capabilities for Enhanced Ship Safety) project brings together a range of experienced and dedicated partners in order to tackle the issue of ship inspection, identification of high-risk ships, providing access to information related to ship surveys independent of the ship&amp;rsquo;s flag and inspection regime and moreover incorporate enhanced and harmonised cooperation and maritime stakeholders in order to avoid ship accidents, promote maritime safety and protect the environment. The INCASS consortium aims to bring an innovative solution to the ship inspection regime through the introduction of enhanced inspection of ship structures based on robotic platforms, providing ship structures and machinery monitoring with real time information using &amp;lsquo;intelligent&amp;rsquo; sensors and incorporate Structural and Machinery Risk Analysis. Moreover, by introducing Condition Based Inspection tools and methodologies, reliability and critically based maintenance, providing an enhanced Central Database including ship structures and machinery available to maritime authorities (e.g. EMSA, Port State Control), Classification Societies and ship operators and eventually by developing a Decision Support System for ship structures and machinery for continuous monitoring and risk analysis and management of ship operations.&lt;/p&gt;
 &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Appearance-based Mapping and Localization using Visual Features</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2013-probabilistic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2013-probabilistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vessel Inspection Assistance by means of a Micro-Aerial Vehicle: Control Architecture and Self-Localization Issues</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2013-vessel/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2013-vessel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Control Architecture for a Micro Aerial Vehicle Intended for Vessel Visual Inspection</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2012-control/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2012-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Micro Aerial Vehicle for Vessel Visual Inspection Assistance</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2012-micro/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2012-micro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Autonomous Visual Inspection of Vessels Assisted by an Unmanned Micro Aerial Vehicle</title>
+      <link>https://emiliofidalgo.github.io/publication/bonnin-2012-semi/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonnin-2012-semi/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -170,6 +562,38 @@ In the day-to-day ship operations, structural and machinery failures may lead to
     </item>
     
     <item>
+      <title>A Control Software Architecture for Autonomous Unmanned Vehicles Inspired in Generic Components</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2011-control/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2011-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Assessment of Different Image Descriptors for Topological Map-Building and Scene Recognition</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2011-experimental/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2011-experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Use of UAVs for Vessel Inspection Assistance</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2011-use/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2011-use/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integración de Imágenes Electrocardiográficas en el Servicion de Salud de las Islas Baleares</title>
+      <link>https://emiliofidalgo.github.io/publication/amer-2009-integracion/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/amer-2009-integracion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MINOAS</title>
       <link>https://emiliofidalgo.github.io/project/minoas/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
@@ -186,6 +610,14 @@ The increasing competitiveness in marine operations creates a need for new syste
 &lt;/div&gt;
 
 &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Implantación de un Sensor Sónar para el Control de la Navegación de un Vehı́culo Submarino</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2007-implantacion/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2007-implantacion/</guid>
+      <description></description>
     </item>
     
   </channel>

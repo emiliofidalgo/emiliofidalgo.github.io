@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kai Yao | Emilio Garcia-Fidalgo</title>
+    <link>https://emiliofidalgo.github.io/author/kai-yao/</link>
+      <atom:link href="https://emiliofidalgo.github.io/author/kai-yao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kai Yao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Emilio Garcia-Fidalgo © 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://emiliofidalgo.github.io/images/icon_hu5cadc5907358e99946514e3df57ab3de_31354_512x512_fill_lanczos_center_2.png</url>
+      <title>Kai Yao</title>
+      <link>https://emiliofidalgo.github.io/author/kai-yao/</link>
+    </image>
+    
+    <item>
+      <title>Towards the Automation of Visual Inspections of Cargo Holds of Large-Tonnage Vessels</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2019-towards/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2019-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Inspection of Vessels Cargo Holds: Use of a Micro-Aerial Vehicle as a Smart Assistant</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2019-visual/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2019-visual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Steps towards the Integration of Robotic and Autonomous Systems in the Inspection of Vessel Holds</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2018-new/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2018-new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

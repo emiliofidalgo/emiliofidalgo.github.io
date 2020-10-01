@@ -14,3 +14,424 @@
     
   </channel>
 </rss>
+-garcia-fidalgo/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of a Skill-based Control Architecture for a Visual Inspection-oriented Aerial Platform</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2020-evaluation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2020-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LiPo-LCD: Combining Lines and Points for Appearance-based Loop Closure Detection</title>
+      <link>https://emiliofidalgo.github.io/publication/company-2020-lipo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/company-2020-lipo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Robust Loop Closure Detection in Weakly-Textured Environments using Points and Lines</title>
+      <link>https://emiliofidalgo.github.io/publication/company-2020-towards/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/company-2020-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Reconfigurable Framework to Turn a MAV into an Effective Tool for Vessel Inspection</title>
+      <link>https://emiliofidalgo.github.io/publication/bonnin-2019-reconfigurable/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonnin-2019-reconfigurable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superpixel Description and Indexing for Visual Loop Closure Detection</title>
+      <link>https://emiliofidalgo.github.io/publication/el-2019-superpixel/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/el-2019-superpixel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards the Automation of Visual Inspections of Cargo Holds of Large-Tonnage Vessels</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2019-towards/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2019-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Inspection of Vessels Cargo Holds: Use of a Micro-Aerial Vehicle as a Smart Assistant</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2019-visual/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2019-visual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Image Mosaicking Using Incremental Bags of Binary Words</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2018-fast/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2018-fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Loop Closure Detection for Topological Mapping</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2018-hierarchical/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2018-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iBoW-LCD: An Appearance-based Loop Closure Detection Approach using Incremental Bags of Binary Words</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2018-ibow/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2018-ibow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loop Closure Detection Using Incremental Bags of Binary Words</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2018-loop-2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2018-loop-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loop Closure Detection Using Local Invariant Features and Randomized KD-Trees</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2018-loop/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2018-loop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods for Appearance-based Loop Closure Detection: Applications to Topological Mapping and Image Mosaicking</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2018-methods/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2018-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Steps towards the Integration of Robotic and Autonomous Systems in the Inspection of Vessel Holds</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2018-new/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2018-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Large-Scale Coverage Maps of Posidonia Oceanica using an Autonomous Underwater Vehicle</title>
+      <link>https://emiliofidalgo.github.io/publication/burguera-2017-building/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/burguera-2017-building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defect-level Inspection Aids for Automated Vessel Visual Inspection</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2017-defect/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2017-defect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Place Recognition for Topological Mapping</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2017-hierarchical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2017-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multifunctional Cooperative Marine Robots for Intervention Domains: Target Detection, Tracking and Recognition Issues</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2017-multifunctional/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2017-multifunctional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the Control Architecture of a Micro-Aerial Vehicle for Visual Inspection of Vessels</title>
+      <link>https://emiliofidalgo.github.io/publication/bonnin-2017-testing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonnin-2017-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The INCASS Project Approach towards Automated Visual Inspection of Vessels</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2017-incass/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2017-incass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a New Methodology to Evaluate the Environmental Impact of a Marine Outfall Using a Lightweight AUV</title>
+      <link>https://emiliofidalgo.github.io/publication/bonin-2017-towards/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonin-2017-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision-Based Control for an AUV in a Multi-robot Undersea Intervention Task</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2017-vision/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2017-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Control of an AUV for Multi-Robot Intervention Tasks</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2017-visual/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2017-visual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in Automated Ship Structure Inspection</title>
+      <link>https://emiliofidalgo.github.io/publication/koch-2016-advances/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/koch-2016-advances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appearance-based Loop Closure Detection and its Application to Topological Mapping and Image Mosaicing</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2016-appearance/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2016-appearance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Image Mosaicing using Incremental Bags of Binary Words</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2016-fast/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2016-fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision-Based Corrosion Detection Assisted by a Micro-Aerial Vehicle in a Vessel Inspection Application</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2016-vision/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2016-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Micro-Aerial Platform for Vessel Visual Inspection based on Supervised Autonomy</title>
+      <link>https://emiliofidalgo.github.io/publication/bonnin-2015-micro-2/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonnin-2015-micro-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Micro-Aerial Vehicle based on Supervised Autonomy for Vessel Visual Inspection</title>
+      <link>https://emiliofidalgo.github.io/publication/bonnin-2015-micro/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonnin-2015-micro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mosaicing Approach for Vessel Visual Inspection using a Micro-Aerial Vehicle</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2015-mosaicing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2015-mosaicing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Threaded Architecture for Fast Topology Estimation in Image Mosaicing</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2015-multi/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2015-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saliency-driven Visual Inspection of Vessels by means of a Multirotor</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2015-saliency/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2015-saliency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vessel Visual Inspection: A Mosaicing Approach</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2015-vessel/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2015-vessel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision-based Topological Mapping and Localization Methods: A Survey</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2015-vision/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2015-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Inspection of Vessels by means of a Micro-Aerial Vehicle: an Artificial Neural Network Approach for Corrosion Detection</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2015-visual/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2015-visual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Robot Application for Marine Vessel Inspection</title>
+      <link>https://emiliofidalgo.github.io/publication/eich-2014-robot/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/eich-2014-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indexing Invariant Features for Topological Mapping and Localization</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2014-indexing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2014-indexing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Use of Binary Feature Descriptors for Loop Closure Detection</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2014-use/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2014-use/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-of-the-Art in Vision-Based Topological Mapping and Localization Methods</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2014-state/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2014-state/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vessel Inspection: A Micro-Aerial Vehicle-based Approach</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2014-vessel/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2014-vessel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision-Based Topological Mapping and Localization by means of Local Invariant Features and Map Refinement</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2014-vision/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2014-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Solution for Bayesian Visual Loop Closure Detection Based on Local Invariant Features</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2013-solution/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2013-solution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Appearance-based Mapping and Localization using Visual Features</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2013-probabilistic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2013-probabilistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vessel Inspection Assistance by means of a Micro-Aerial Vehicle: Control Architecture and Self-Localization Issues</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2013-vessel/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2013-vessel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Control Architecture for a Micro Aerial Vehicle Intended for Vessel Visual Inspection</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2012-control/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2012-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Micro Aerial Vehicle for Vessel Visual Inspection Assistance</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2012-micro/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2012-micro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Autonomous Visual Inspection of Vessels Assisted by an Unmanned Micro Aerial Vehicle</title>
+      <link>https://emiliofidalgo.github.io/publication/bonnin-2012-semi/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/bonnin-2012-semi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Control Software Architecture for Autonomous Unmanned Vehicles Inspired in Generic Components</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2011-control/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2011-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Assessment of Different Image Descriptors for Topological Map-Building and Scene Recognition</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2011-experimental/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2011-experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Use of UAVs for Vessel Inspection Assistance</title>
+      <link>https://emiliofidalgo.github.io/publication/ortiz-2011-use/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/ortiz-2011-use/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integración de Imágenes Electrocardiográficas en el Servicion de Salud de las Islas Baleares</title>
+      <link>https://emiliofidalgo.github.io/publication/amer-2009-integracion/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/amer-2009-integracion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implantación de un Sensor Sónar para el Control de la Navegación de un Vehı́culo Submarino</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2007-implantacion/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2007-implantacion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
