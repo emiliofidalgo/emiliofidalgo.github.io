@@ -5,12 +5,28 @@
     <link>https://emiliofidalgo.github.io/author/joan-p-company-corcoles/</link>
       <atom:link href="https://emiliofidalgo.github.io/author/joan-p-company-corcoles/index.xml" rel="self" type="application/rss+xml" />
     <description>Joan P Company-Corcoles</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Emilio Garcia-Fidalgo © 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Emilio Garcia-Fidalgo © 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://emiliofidalgo.github.io/images/icon_hu5cadc5907358e99946514e3df57ab3de_31354_512x512_fill_lanczos_center_3.png</url>
       <title>Joan P Company-Corcoles</title>
       <link>https://emiliofidalgo.github.io/author/joan-p-company-corcoles/</link>
     </image>
+    
+    <item>
+      <title>Appearance-based Loop Closure Detection Combining Lines and Learned Points for Low-Textured Environments</title>
+      <link>https://emiliofidalgo.github.io/publication/company-2022-auro/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/company-2022-auro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSC-VO: Exploiting Manhattan and Structural Constraints for Visual Odometry</title>
+      <link>https://emiliofidalgo.github.io/publication/company-2022-mscvo/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/company-2022-mscvo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MUSSOL: A Micro-Uas to Survey Ship Cargo hOLds</title>
