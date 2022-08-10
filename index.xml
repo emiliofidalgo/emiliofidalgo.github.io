@@ -5,12 +5,20 @@
     <link>https://emiliofidalgo.github.io/</link>
       <atom:link href="https://emiliofidalgo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Emilio Garcia-Fidalgo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Emilio Garcia-Fidalgo © 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Emilio Garcia-Fidalgo © 2022</copyright><lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://emiliofidalgo.github.io/images/icon_hu5cadc5907358e99946514e3df57ab3de_31354_512x512_fill_lanczos_center_3.png</url>
       <title>Emilio Garcia-Fidalgo</title>
       <link>https://emiliofidalgo.github.io/</link>
     </image>
+    
+    <item>
+      <title>LiODOM: Adaptive Local Mapping for Robust LiDAR-Only Odometry</title>
+      <link>https://emiliofidalgo.github.io/publication/garcia-2022-ras/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://emiliofidalgo.github.io/publication/garcia-2022-ras/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Appearance-based Loop Closure Detection Combining Lines and Learned Points for Low-Textured Environments</title>
